@@ -1,9 +1,5 @@
-Perfect 👍 Here’s a **ready-to-use `README.md`** file for your repo `Java-OOP-Programs`.
-Just copy this into a file named **`README.md`** in the root of your repo.
 
----
 
-````markdown
 # Java OOP Programs
 
 This repository contains simple and clear Java programs demonstrating the concepts of **Object-Oriented Programming (OOP)**.  
@@ -15,17 +11,7 @@ It is helpful for beginners who want to understand **classes, objects, construct
 Object-Oriented Programming (OOP) is a programming paradigm that organizes code into objects and classes.  
 This repository provides basic to intermediate examples in Java, written with clean code and comments for easy understanding.
 
----
 
-## ✅ Programs Included
-- **Class & Object Example** → `Car.java`
-- **Constructors Example** → `Student.java`
-- **Inheritance Example** → `Vehicle.java`, `Car.java`, `Bike.java`
-- **Polymorphism Example** → `Shape.java`
-- **Encapsulation Example** → `BankAccount.java`
-- **Abstraction Example** → `Animal.java`, `Dog.java`
-
----
 
 ## 🚀 How to Run
 1. Clone this repository:
